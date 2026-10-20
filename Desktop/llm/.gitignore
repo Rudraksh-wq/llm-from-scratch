@@ -1,0 +1,8 @@
+"cuda/" 
+"cuda/" 
+"model-01.pkl" 
+"*.pkl" 
+"openwebtext/"
+"__pycache__/"
+"*.pyc"
+openwebtext/
